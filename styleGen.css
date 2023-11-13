@@ -1,0 +1,13 @@
+.quoi{
+   display : flex;
+   margin : auto;
+   width : 100px;
+   margin-bottom: 15px;
+}
+
+.feur{
+   display : flex;
+   margin : auto;
+   width : 100px;
+   font-weight: bold;
+}

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vue TEST</title>
+    <link rel="stylesheet" href="styleGen.css">
+</head>
+<body>
+   <div class="quoi">
+   	Quoi ?
+   </div>
+   <div class="feur">
+   	Feur
+   </div>
+</body>
+</html>
+
